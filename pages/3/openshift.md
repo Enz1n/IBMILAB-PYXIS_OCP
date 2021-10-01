@@ -110,6 +110,8 @@ Y listo, debería abrirnos una nueva ventana con la consola web de OpenShift lis
 
 
 ---
+#### Para tener una pequeña idea de lo que es el  despliegue de imagenes vamos a realizar el siguiente pequeño [LABORATORIO](https://github.com/Enz1n/Spring-Petclinic_exercice). 
+
 
 * [→ Siguiente Sección (Desplegar imagenes)](3.2/desplegar_imagenes.md#desplegar-imagenes)
 
